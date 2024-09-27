@@ -95,6 +95,11 @@ margin-right: auto;
 }
 
 
+.info{
+    padding-top: 70px;
+    padding-bottom: 85px;
+}
+
 .info-text{
     color: #000;
 text-align: center;
@@ -103,6 +108,7 @@ font-weight: 700;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.96px;
 text-transform: uppercase;
+margin-bottom: 14px;
 }
 
 .info-title{
@@ -111,15 +117,46 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 line-height: 1.43; /* 127.778% */
+width: 622px;
+margin-left: auto;
+margin-right: auto;
 }
 
-.adivise-title{
+.adivise{
+    padding-top: 80px;
+    padding-bottom: 70px;
+    background-color: #E5E9FF;
+    
+}
+.adivise-list{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.adivise-titl{
     color: #000;
 font-size: 11px;
 font-weight: 400;
 line-height: 1.27; /* 127.273% */
 letter-spacing: 1px;
 text-transform: uppercase;
+width: 133px;
+}
+
+.adivise-items2{
+    display: flex;
+    gap: 32px;
+    justify-content: space-between;
+}
+
+.adivise-el{
+    text-align: center;
+}
+
+.adivise-img{
+    width: 304px;
+    margin-bottom: 20px;
 }
 
 .adivise-text{
@@ -128,15 +165,17 @@ text-align: center;
 font-size: 21px;
 font-weight: 400;
 line-height: 1.52; /* 152.381% */
+margin-bottom: 5px;
 }
 
-.adivise-title{
+.adivise-titl{
     color: #000;
 text-align: center;
 font-size: 12px;
 font-weight: 400;
 line-height: 1.6; /* 166.667% */
 letter-spacing: 0.25px;
+margin-bottom: 96px;
 }
 
 .adivise-button{
@@ -147,6 +186,10 @@ font-weight: 400;
 line-height: 1.54; /* 145.455% */
 letter-spacing: 1.3px;
 text-transform: uppercase;
+width: 240px;
+height: 30px;
+border-radius: 999px;
+background: #FFA5FF;
 }
 
 .ad-text{
