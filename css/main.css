@@ -192,6 +192,28 @@ border-radius: 999px;
 background: #FFA5FF;
 }
 
+
+.ad-mgg{
+    margin-left: 1080px;
+}
+
+.ad-text{
+    margin-left: 133px;
+    
+}
+
+.ad-title{
+    margin-left: 171px;
+}
+
+.ad-titlee{
+    margin-left: 175px;
+}
+
+.ad-button{
+    margin-left: 187px;
+}
+
 .ad-text{
     color: #000;
 text-align: center;
@@ -223,10 +245,6 @@ text-transform: uppercase;
     margin-top: 23px;
 }
 
-.ad{
-    display: flex;
-    justify-content: flex-start;
-}
 
 .base-text{
     color: #000;
