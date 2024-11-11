@@ -192,6 +192,11 @@ border-radius: 999px;
 background: #FFA5FF;
 }
 
+.ad-div{
+    display: flex;
+    justify-content: center;
+}
+
 
 .ad-mgg{
     margin-left: 1080px;
